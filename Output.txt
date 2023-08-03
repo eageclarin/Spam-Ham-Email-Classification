@@ -1,0 +1,49 @@
+Trial Number: 1 With Smoothing: No
+TP: 33 TN: 285 FP: 1 FN: 16
+Preicision: 0.9705882352941176
+Recall: 0.673469387755102
+
+Trial Number: 1 With Smoothing: Yes
+TP: 49 TN: 227 FP: 59 FN: 0
+Preicision: 0.4537037037037037
+Recall: 1.0
+
+Trial Number: 2 With Smoothing: No
+TP: 32 TN: 286 FP: 1 FN: 16
+Preicision: 0.9696969696969697
+Recall: 0.6666666666666666
+
+Trial Number: 2 With Smoothing: Yes
+TP: 47 TN: 219 FP: 68 FN: 1
+Preicision: 0.40869565217391307
+Recall: 0.9791666666666666
+
+Trial Number: 3 With Smoothing: No
+TP: 27 TN: 294 FP: 1 FN: 13
+Preicision: 0.9642857142857143
+Recall: 0.675
+
+Trial Number: 3 With Smoothing: Yes
+TP: 40 TN: 235 FP: 60 FN: 0
+Preicision: 0.4
+Recall: 1.0
+
+Trial Number: 4 With Smoothing: No
+TP: 36 TN: 283 FP: 2 FN: 14
+Preicision: 0.9473684210526315
+Recall: 0.72
+
+Trial Number: 4 With Smoothing: Yes
+TP: 50 TN: 235 FP: 50 FN: 0
+Preicision: 0.5
+Recall: 1.0
+
+Trial Number: 5 With Smoothing: No
+TP: 38 TN: 285 FP: 2 FN: 8
+Preicision: 0.9473684210526315
+Recall: 0.8260869565217391
+
+Trial Number: 5 With Smoothing: Yes
+TP: 46 TN: 223 FP: 64 FN: 0
+Preicision: 0.41818181818181815
+Recall: 1.0
